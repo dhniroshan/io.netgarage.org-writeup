@@ -1,4 +1,4 @@
-### First Look
+### Level 1
 
 When you login to the level 1, there you can find a README file by typing `ls` command. You will find introduction to how to play the game.
 
